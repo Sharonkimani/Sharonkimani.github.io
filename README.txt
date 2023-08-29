@@ -31,7 +31,6 @@ I'm always eager to connect and collaborate. If you have any questions, ideas, o
 
 Contact Details:
 - Email: kimanisharon23@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/sharon-kimani-b4b84624b]
 
 Thank you for visiting my repository, and I look forward to the exciting possibilities that data science and analytics bring!
 
